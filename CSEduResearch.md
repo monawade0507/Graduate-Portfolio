@@ -1,7 +1,7 @@
 ---
 title: Independent Study: CS Education Research
 layout: template
-filename: CSEduResearch
+filename: CSEduResearch.md
 ---
 
 # Independent Study: CS Education Research

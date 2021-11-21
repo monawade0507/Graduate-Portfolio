@@ -31,13 +31,50 @@ By the end of this module, students should be able have a firm understanding of 
 
 
 ## Course Schedule:
+<table class="tablelines">
+  <thead>
+    <tr>
+            <th>Week</th>
+            <th>Pre-work</th>
+            <th>Topic</th>
+            <th>Assignment</th>
+    </tr>
+   </thead>
+    <tbody>
+            <tr>
+              <td>Week 1</td>
+              <td>read pre-lecture notes</td>
+              <td>Smart and raw pointers</td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>Week 2</td>
+              <td>read pre-lecture notes</td>
+              <td>Resource management</td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>Week 3</td>
+              <td>read pre-lecture notes</td>
+              <td>Rule of zero and rule of three</td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>Week 4</td>
+              <td>read pre-lecture notes</td>
+              <td>C vs C++</td>
+              <td> </td>
+            </tr>
+   </tbody>
+</table>
+
+
 | Week | Pre-work |  Topic  | Assignment |
 | ---- | -------- | ------- | ---------- |
 | _Week 1_ | read pre-lecture notes | Smart and raw pointers | |
 | _Week 2_ | read pre-lecture notes | Resource management | |
 | _Week 3_ | read pre-lecture notes | Rule of zero and rule of three  | |
 | _Week 4_ | read pre-lecture notes | C vs C++  | |
-{: .tablelines}
 
 ### Required Text
 

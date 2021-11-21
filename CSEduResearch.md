@@ -8,10 +8,9 @@ filename: CSEduResearch.md
   <a href="https://monawade0507.github.io/Non-Thesis-Graudate-Portfolio-/">Home</a> |
   <a href="https://monawade0507.github.io/Non-Thesis-Graudate-Portfolio-/Module-Syllabus">Module Syllabus</a>
 </nav>
-<bar>
-  
-
-</bar>
+&emsp;
+&emsp;
+&emsp;
 
 # Independent Study: CS Education Research
 

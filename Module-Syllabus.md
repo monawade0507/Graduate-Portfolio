@@ -4,33 +4,40 @@ layout: template
 filename: Module-Syllabus.md
 ---
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 # Module Goal
 
 ### Intended audience:  
 Undergraduate students that have completed their freshman course load and whom intended to major or minor in computer science.  
 
-## Module Description
+## Module Description:
 
 ## Prerequisites:
 Students are expected to have a taken a foundational course in computer science that would have given them exposure to a high-level object-oriented coding language (examples are Java, Python, etc.). In addition, a basic understanding of C++ 11 is expected which includes basic data types, function and class definition, high level program design, etc.  
 
-## Learning Outcomes
+## Learning Outcomes:
 By the end of this module, students should be able have a firm understanding of the following subjects:
 - Be able to distinguish the differences between a "smart" point and a raw pointer; functionality of heap-allocated memory management.  
 - Identify methods and libraries used for resource management; understand the connection between object lifetime and garbage collection.
 - Demonstrate the rules of managing the lifecycle of an object using special functions; Distinguish between "the rule of zero" by avoiding definitions of default operations or "the rule of three" by defining a destructor, copy constructor, and copy assignment constructor.
 - Identify functions, libraries, and methods that C and C++ have for memory lifecycle; Categorize the variations of memory management of C and C++.
 
-## Assessments
+## Assessments:
 
 
-## Course Schedule
+## Course Schedule:
 | Week | Pre-work |  Topic  | Assignment |
 | ---- | -------- | ------- | ---------- |
 | _Week 1_ | read pre-lecture notes | Smart and raw pointers | |
 | _Week 2_ | read pre-lecture notes | Resource management | |
 | _Week 3_ | read pre-lecture notes | Rule of zero and rule of three  | |
 | _Week 4_ | read pre-lecture notes | C vs C++  | |
+{: .tablelines}
 
 ### Required Text
 

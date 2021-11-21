@@ -14,6 +14,10 @@ filename: Module-Syllabus.md
         <a href="https://monawade0507.github.io/Non-Thesis-Graudate-Portfolio-/">Home</a>  |
         <a href="https://monawade0507.github.io/Non-Thesis-Graudate-Portfolio-/CSEduResearch">CSEduResearch</a>
 </nav>
+<bar>
+  
+
+</bar>
 
 # Module Goal
 

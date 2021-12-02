@@ -42,7 +42,7 @@ By the end of this module, students should be able have a firm understanding of 
 
 | Week | Pre-work |  Topic  | Assignment |
 | ---- | -------- | ------- | ---------- |
-| _Week 1_ | read https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I | Smart and raw pointers | |
+| _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Pre-work</a>  | Smart and raw pointers | |
 | _Week 2_ | read pre-lecture notes | Resource management | |
 | _Week 3_ | read pre-lecture notes | Rule of zero and rule of three  | |
 | _Week 4_ | read pre-lecture notes | C vs C++  | |
@@ -51,9 +51,10 @@ By the end of this module, students should be able have a firm understanding of 
 
 ### Recommended Text
 Smart and raw pointers: 
- - https://docs.microsoft.com/en-us/cpp/cpp/pointers-cpp?view=msvc-170
- - https://en.wikipedia.org/wiki/Smart_pointer
- - https://www.geeksforgeeks.org/smart-pointers-cpp/
+ - <a href="https://docs.microsoft.com/en-us/cpp/cpp/pointers-cpp?view=msvc-170">Microsoft - C++ Pointers</a> 
+ - <a href="https://en.wikipedia.org/wiki/Smart_pointer">Wiki - Smart Pointers</a> 
+ - <a href="https://www.geeksforgeeks.org/smart-pointers-cpp/">Geeks For Geeks - Smart Pointers</a> 
+
 
 ### Design of the module reflects research cited in the Cambridge handbook:
 

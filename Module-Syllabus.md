@@ -50,6 +50,10 @@ By the end of this module, students should be able have a firm understanding of 
 ### Required Text
 
 ### Recommended Text
+Smart and raw pointers: 
+ - https://docs.microsoft.com/en-us/cpp/cpp/pointers-cpp?view=msvc-170
+ - https://en.wikipedia.org/wiki/Smart_pointer
+ - https://www.geeksforgeeks.org/smart-pointers-cpp/
 
 ### Design of the module reflects research cited in the Cambridge handbook:
 

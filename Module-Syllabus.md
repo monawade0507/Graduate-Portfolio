@@ -73,3 +73,6 @@ With the modules’ intended audience and prerequisites, chapter 27 about overco
 
 _"Fincher,_ _S. A.,_ _&_ _Robins,_ _A._ _V._ _(Eds.)._ _(2019)._ _The_ _Cambridge_ _handbook_ _of_ _computing_
 _education research. Cambridge University Press."_
+
+
+### Assignment Reasoning and Justification

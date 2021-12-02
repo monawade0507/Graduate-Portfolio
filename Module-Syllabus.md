@@ -42,12 +42,18 @@ By the end of this module, students should be able have a firm understanding of 
 
 | Week | Pre-work |  Topic  | Assignment |
 | ---- | -------- | ------- | ---------- |
-| _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Pre-work</a>  | Smart and raw pointers | |
-| _Week 2_ | read pre-lecture notes | Resource management | |
-| _Week 3_ | read pre-lecture notes | Rule of zero and rule of three  | |
+| _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Pre-lecture notes</a> | Smart and Raw Pointers | |
+| _Week 2_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/Ecprx2yrBqBPnPvT8R8VRTwBQuNOh1tKsp-a9YLIIpiP-w?e=bXDr94">Pre-lecture notes</a> | Resource Management | |
+| _Week 3_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EY4nh1xZ3JZDoQWAXPI4N7sBVhlkmbzD1Gcx9f6GJw0AEA?e=BxcIRF">Pre-lecture notes</a> | Rule of Zero and Rule of Three  | |
 | _Week 4_ | read pre-lecture notes | C vs C++  | |
 
 ### Required Text
+
+C++ FAQs 2
+ND Edition
+Cline, Lomow, Girou
+Addison-Wesley Professional (December 21, 1998)
+ISBN-13: 978-0201309836
 
 ### Recommended Text
 Smart and raw pointers: 
@@ -55,6 +61,11 @@ Smart and raw pointers:
  - <a href="https://en.wikipedia.org/wiki/Smart_pointer">Wiki - Smart Pointers</a> 
  - <a href="https://www.geeksforgeeks.org/smart-pointers-cpp/">Geeks For Geeks - Smart Pointers</a> 
 
+Rule of Zero and Rule of Three
+- <a href="https://stackoverflow.com/questions/44997955/rule-of-zero-confusion">StackOverflow - Rule of Zero confusion?</a>
+- <a href="https://accu.org/journals/overload/22/120/alday_1896/">Enforcing The Rule of Zero</a>
+- <a href="https://www.geeksforgeeks.org/destructors-c/">Geeks for Geeks - Destructor</a>
+- <a href="https://www.feabhas.com/sites/default/files/2016-06/Rule%20of%20the%20Big%20Five.pdf">The Rule of the Big Five</a>
 
 ### Design of the module reflects research cited in the Cambridge handbook:
 

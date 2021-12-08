@@ -35,14 +35,25 @@ By the end of this module, students should be able have a firm understanding of 
 - Demonstrate the rules of managing the lifecycle of an object using special functions; Distinguish between "the rule of zero" by avoiding definitions of default operations or "the rule of three" by defining a destructor, copy constructor, and copy assignment constructor.
 - Identify functions, libraries, and methods that C and C++ have for memory lifecycle; Categorize the variations of memory management of C and C++.
 
-## Assessments:
-
+## Grading Policy:
+All grades are based on the cumulative grade point average of three quizzes, one short-response essay, and one summative assessments. The general grading scale is as follows:
+&emsp;
+90% - 100% = A
+&emsp;
+80% - 89% = B
+&emsp;
+70% - 79% = C
+&emsp;
+60% - 69% = D
+&emsp;
+0% - 59% = F
+&emsp;
 
 ## Course Schedule:
 
 | Week | Pre-work |  Topic  | Assignment |
 | ---- | -------- | ------- | ---------- |
-| _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Pre-lecture notes</a> | Smart and Raw Pointers | |
+| _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Pre-lecture notes</a> | Smart and Raw Pointers | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/ETdSlHDQow1CiKBNpd1aq8MB5wK60ojzgA_jcGFOoYV0bw?e=KbxiHd">Assessment #1 - Smart and Raw Pointers</a>  |
 | _Week 2_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/Ecprx2yrBqBPnPvT8R8VRTwBQuNOh1tKsp-a9YLIIpiP-w?e=bXDr94">Pre-lecture notes</a> | Resource Management | |
 | _Week 3_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EY4nh1xZ3JZDoQWAXPI4N7sBVhlkmbzD1Gcx9f6GJw0AEA?e=BxcIRF">Pre-lecture notes</a> | Rule of Zero and Rule of Three  | |
 | _Week 4_ | read pre-lecture notes | C vs C++  | |
@@ -50,9 +61,13 @@ By the end of this module, students should be able have a firm understanding of 
 ### Required Text
 
 C++ FAQs 2
+&emsp;
 ND Edition
+&emsp;
 Cline, Lomow, Girou
+&emsp;
 Addison-Wesley Professional (December 21, 1998)
+&emsp;
 ISBN-13: 978-0201309836
 
 ### Recommended Text
@@ -74,5 +89,3 @@ With the modules’ intended audience and prerequisites, chapter 27 about overco
 _"Fincher,_ _S. A.,_ _&_ _Robins,_ _A._ _V._ _(Eds.)._ _(2019)._ _The_ _Cambridge_ _handbook_ _of_ _computing_
 _education research. Cambridge University Press."_
 
-
-### Assignment Reasoning and Justification

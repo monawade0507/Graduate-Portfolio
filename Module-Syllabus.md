@@ -37,17 +37,21 @@ By the end of this module, students should be able have a firm understanding of 
 
 ## Grading Policy:
 All grades are based on the cumulative grade point average of three quizzes, one short-response essay, and one summative assessments. The general grading scale is as follows:
-&emsp;
-90% - 100% = A
-&emsp;
-80% - 89% = B
-&emsp;
-70% - 79% = C
-&emsp;
-60% - 69% = D
-&emsp;
-0% - 59% = F
-&emsp;
+- 90% - 100% = A
+- 80% - 89% = B
+- 70% - 79% = C
+- 60% - 69% = D
+- 0% - 59% = F
+
+| Assignment | Point Worth |
+| ---------- | ----------- |
+| Assessment #1 - Smart and Raw Pointers | 8 points |
+| Assessment #2 - Resource Management    | 9 points | 
+| Assessment #3 - Rule of Zero and Rule of Three | 12 points |
+| Summative Assessment | TODO |
+
+Total Points = TODO
+
 
 ## Course Schedule:
 
@@ -55,7 +59,7 @@ All grades are based on the cumulative grade point average of three quizzes, one
 | ---- | -------- | ------- | ---------- |
 | _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Pre-lecture notes</a> | Smart and Raw Pointers | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/ETdSlHDQow1CiKBNpd1aq8MB5wK60ojzgA_jcGFOoYV0bw?e=KbxiHd">Assessment #1 - Smart and Raw Pointers</a>  |
 | _Week 2_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/Ecprx2yrBqBPnPvT8R8VRTwBQuNOh1tKsp-a9YLIIpiP-w?e=bXDr94">Pre-lecture notes</a> | Resource Management | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EWEjBUUI0S9Mk6S5MUJCJosBy7QlKnDR8ldU3qX67zqYDQ?e=AVdJqm">Assessment #2 - Resource Management </a> |
-| _Week 3_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EY4nh1xZ3JZDoQWAXPI4N7sBVhlkmbzD1Gcx9f6GJw0AEA?e=BxcIRF">Pre-lecture notes</a> | Rule of Zero and Rule of Three  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcibAopwx_NBlK_RHP8OMIgBKPpkYEujWcUeoiSPmVc9sQ?e=EXYVpY">Assessment #3 for Rule of Zero and Rule of Three </a> |
+| _Week 3_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EY4nh1xZ3JZDoQWAXPI4N7sBVhlkmbzD1Gcx9f6GJw0AEA?e=BxcIRF">Pre-lecture notes</a> | Rule of Zero and Rule of Three  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcibAopwx_NBlK_RHP8OMIgBKPpkYEujWcUeoiSPmVc9sQ?e=EXYVpY">Assessment #3 - Rule of Zero and Rule of Three </a> |
 | _Week 4_ | read pre-lecture notes | C vs C++  | |
 
 ### Required Text

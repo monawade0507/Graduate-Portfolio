@@ -37,7 +37,7 @@ By the end of this module, students should be able have a firm understanding of 
 - Identify functions, libraries, and methods that C and C++ have for memory lifecycle; Categorize the variations of memory management of C and C++.
 
 ## Grading Policy:
-All grades are based on the cumulative grade point average of four assessments and 4 labs. Each0 lab will depend on the first assigned lab (Lab #1 is an exception). The general grading scale is as follows:
+All grades are based on the cumulative grade point average of four assessments, 4 labs, and a summative lab. Each lab will depend on the first assigned lab (Lab #1 is an exception). The general grading scale is as follows:
 - 90% - 100% = A
 - 80% - 89% = B
 - 70% - 79% = C
@@ -49,11 +49,12 @@ All grades are based on the cumulative grade point average of four assessments a
 | Assessment #1 - Smart and Raw Pointers | 8 points |
 | Assessment #2 - Resource Management    | 9 points | 
 | Assessment #3 - Rule of Zero and Rule of Three | 12 points |
-| Summative Assessment | TODO |
+| Assessment #4 - C vs. C++ | 10 points |
 | Lab #1 | TODO |
 | Lab #2 | TODO |
 | Lab #3 | TODO |
 | Lab #4 | TODO |
+| Summative Lab | TODO |
 
 
 Total Points = TODO

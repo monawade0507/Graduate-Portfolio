@@ -66,7 +66,7 @@ Total Points = TODO
 | _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Lecture PowerPoint #1</a> | Smart and Raw Pointers | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/ETdSlHDQow1CiKBNpd1aq8MB5wK60ojzgA_jcGFOoYV0bw?e=KbxiHd">Assessment #1 - Smart and Raw Pointers</a>  |
 | _Week 2_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/Ecprx2yrBqBPnPvT8R8VRTwBQuNOh1tKsp-a9YLIIpiP-w?e=bXDr94">Lecture PowerPoint #2</a> | Resource Management | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EWEjBUUI0S9Mk6S5MUJCJosBy7QlKnDR8ldU3qX67zqYDQ?e=AVdJqm">Assessment #2 - Resource Management </a> |
 | _Week 3_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EY4nh1xZ3JZDoQWAXPI4N7sBVhlkmbzD1Gcx9f6GJw0AEA?e=BxcIRF">Lecture PowerPoint #3</a> | Rule of Zero and Rule of Three  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcibAopwx_NBlK_RHP8OMIgBKPpkYEujWcUeoiSPmVc9sQ?e=EXYVpY">Assessment #3 - Rule of Zero and Rule of Three </a> |
-| _Week 4_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/ETbeT-uGa6FEmyLzToFoDeABwZiyvDvw-0ZPKnsX8QVRIA?e=nswBUc">Lecture PowerPoint #4</a> | C vs C++  | |
+| _Week 4_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/ETbeT-uGa6FEmyLzToFoDeABwZiyvDvw-0ZPKnsX8QVRIA?e=nswBUc">Lecture PowerPoint #4</a> | C vs C++  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcRYQNzFuelLrcysDUz1ax4Bi-RGR7aTOIl9nZKRVSKxfQ?e=WFCqfS"> Assessment #4 - C vs C++ </a>|
 
 ### Required Text
 

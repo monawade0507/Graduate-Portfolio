@@ -20,10 +20,11 @@ filename: Module-Syllabus.md
 
 # Module Goal
 
-### Intended audience:  
+#### Intended audience:  
 Undergraduate students that have completed their freshman course load and whom intended to major or minor in computer science. Class size is expected to be 25 - 35 students.  
 
 ## Module Description:
+TODO
 
 ## Prerequisites:
 Students are expected to have a taken a foundational course in computer science that would have given them exposure to a high-level object-oriented coding language (examples are Java, Python, etc.). In addition, a basic understanding of C++ 11 is expected which includes basic data types, function and class definition, high level program design, etc.  
@@ -69,32 +70,25 @@ Total Points = TODO
 
 ### Required Text
 
-C++ FAQs 2
-&emsp;
-ND Edition
-&emsp;
-Cline, Lomow, Girou
-&emsp;
-Addison-Wesley Professional (December 21, 1998)
-&emsp;
-ISBN-13: 978-0201309836
+_"C++ FAQs 2ND Edition Cline, Lomow, Girou Addison-Wesley Professional (December 21, 1998) ISBN-13: 978-0201309836"_
 
 ### Recommended Text
-Smart and Raw Pointers : 
+#### Smart and Raw Pointers : 
  - <a href="https://docs.microsoft.com/en-us/cpp/cpp/pointers-cpp?view=msvc-170">Microsoft - C++ Pointers</a> 
  - <a href="https://en.wikipedia.org/wiki/Smart_pointer">Wiki - Smart Pointers</a> 
  - <a href="https://www.geeksforgeeks.org/smart-pointers-cpp/">Geeks For Geeks - Smart Pointers</a>
 
-Resource Management:
+#### Resource Management:
+- <a href="https://docs.microsoft.com/en-us/cpp/cpp/object-lifetime-and-resource-management-modern-cpp?view=msvc-170"> Object lifetime and resource management (RAII) </a>
+- <a href="https://www.modernescpp.com/index.php/c-core-guidelines-rules-to-resource-management">C++ Core Guidelines: Rules to Resource Management </a>
 
-
-Rule of Zero and Rule of Three :
+#### Rule of Zero and Rule of Three :
 - <a href="https://stackoverflow.com/questions/44997955/rule-of-zero-confusion">StackOverflow - Rule of Zero confusion?</a>
 - <a href="https://accu.org/journals/overload/22/120/alday_1896/">Enforcing The Rule of Zero</a>
 - <a href="https://www.geeksforgeeks.org/destructors-c/">Geeks for Geeks - Destructor</a>
 - <a href="https://www.feabhas.com/sites/default/files/2016-06/Rule%20of%20the%20Big%20Five.pdf">The Rule of the Big Five</a>
 
-C vs C++ :
+#### C vs C++ :
 - <a href="https://www.softwaretestinghelp.com/c-vs-cpp/">C Vs C++: 39 Main Differences Between C And C++ With Examples</a>
 - <a href="https://hackr.io/blog/difference-between-c-and-cplusplus">Difference Between C and C++</a>
 

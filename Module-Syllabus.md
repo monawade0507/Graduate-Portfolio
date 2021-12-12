@@ -60,12 +60,12 @@ Total Points = TODO
 
 ## Course Schedule:
 
-| Week | Pre-work |  Topic  | Assignment |
+| Week | Lecture Presentations |  Topic  | Assignment |
 | ---- | -------- | ------- | ---------- |
-| _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Pre-lecture notes</a> | Smart and Raw Pointers | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/ETdSlHDQow1CiKBNpd1aq8MB5wK60ojzgA_jcGFOoYV0bw?e=KbxiHd">Assessment #1 - Smart and Raw Pointers</a>  |
-| _Week 2_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/Ecprx2yrBqBPnPvT8R8VRTwBQuNOh1tKsp-a9YLIIpiP-w?e=bXDr94">Pre-lecture notes</a> | Resource Management | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EWEjBUUI0S9Mk6S5MUJCJosBy7QlKnDR8ldU3qX67zqYDQ?e=AVdJqm">Assessment #2 - Resource Management </a> |
-| _Week 3_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EY4nh1xZ3JZDoQWAXPI4N7sBVhlkmbzD1Gcx9f6GJw0AEA?e=BxcIRF">Pre-lecture notes</a> | Rule of Zero and Rule of Three  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcibAopwx_NBlK_RHP8OMIgBKPpkYEujWcUeoiSPmVc9sQ?e=EXYVpY">Assessment #3 - Rule of Zero and Rule of Three </a> |
-| _Week 4_ | read pre-lecture notes | C vs C++  | |
+| _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Lecture PowerPoint #1</a> | Smart and Raw Pointers | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/ETdSlHDQow1CiKBNpd1aq8MB5wK60ojzgA_jcGFOoYV0bw?e=KbxiHd">Assessment #1 - Smart and Raw Pointers</a>  |
+| _Week 2_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/Ecprx2yrBqBPnPvT8R8VRTwBQuNOh1tKsp-a9YLIIpiP-w?e=bXDr94">Lecture PowerPoint #2</a> | Resource Management | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EWEjBUUI0S9Mk6S5MUJCJosBy7QlKnDR8ldU3qX67zqYDQ?e=AVdJqm">Assessment #2 - Resource Management </a> |
+| _Week 3_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EY4nh1xZ3JZDoQWAXPI4N7sBVhlkmbzD1Gcx9f6GJw0AEA?e=BxcIRF">Lecture PowerPoint #3</a> | Rule of Zero and Rule of Three  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcibAopwx_NBlK_RHP8OMIgBKPpkYEujWcUeoiSPmVc9sQ?e=EXYVpY">Assessment #3 - Rule of Zero and Rule of Three </a> |
+| _Week 4_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/ETbeT-uGa6FEmyLzToFoDeABwZiyvDvw-0ZPKnsX8QVRIA?e=nswBUc">Lecture PowerPoint #4</a> | C vs C++  | |
 
 ### Required Text
 
@@ -80,16 +80,23 @@ Addison-Wesley Professional (December 21, 1998)
 ISBN-13: 978-0201309836
 
 ### Recommended Text
-Smart and raw pointers: 
+Smart and Raw Pointers : 
  - <a href="https://docs.microsoft.com/en-us/cpp/cpp/pointers-cpp?view=msvc-170">Microsoft - C++ Pointers</a> 
  - <a href="https://en.wikipedia.org/wiki/Smart_pointer">Wiki - Smart Pointers</a> 
- - <a href="https://www.geeksforgeeks.org/smart-pointers-cpp/">Geeks For Geeks - Smart Pointers</a> 
+ - <a href="https://www.geeksforgeeks.org/smart-pointers-cpp/">Geeks For Geeks - Smart Pointers</a>
 
-Rule of Zero and Rule of Three
+Resource Management:
+
+
+Rule of Zero and Rule of Three :
 - <a href="https://stackoverflow.com/questions/44997955/rule-of-zero-confusion">StackOverflow - Rule of Zero confusion?</a>
 - <a href="https://accu.org/journals/overload/22/120/alday_1896/">Enforcing The Rule of Zero</a>
 - <a href="https://www.geeksforgeeks.org/destructors-c/">Geeks for Geeks - Destructor</a>
 - <a href="https://www.feabhas.com/sites/default/files/2016-06/Rule%20of%20the%20Big%20Five.pdf">The Rule of the Big Five</a>
+
+C vs C++ :
+- <a href="https://www.softwaretestinghelp.com/c-vs-cpp/">C Vs C++: 39 Main Differences Between C And C++ With Examples</a>
+- <a href="https://hackr.io/blog/difference-between-c-and-cplusplus">Difference Between C and C++</a>
 
 ### Design of the module reflects research cited in the Cambridge handbook:
 

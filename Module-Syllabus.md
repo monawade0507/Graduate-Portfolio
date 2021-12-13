@@ -50,24 +50,27 @@ All grades are based on the cumulative grade point average of four assessments, 
 | Assessment #2 - Resource Management    | 9 points | 
 | Assessment #3 - Rule of Zero and Rule of Three | 12 points |
 | Assessment #4 - C vs. C++ | 10 points |
-| Lab #1 | TODO |
-| Lab #2 | TODO |
-| Lab #3 | TODO |
-| Lab #4 | TODO |
-| Summative Lab | TODO |
+| Lab #1 - #4 | TODO |
+| Summative Lab Report| TODO |
 
 
 Total Points = TODO
 
 
-## Course Schedule:
+## Course Assignments:
 
-| Week | Lecture Presentations |  Topic  | Assignment |
-| ---- | -------- | ------- | ---------- |
-| _Week 1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Lecture PowerPoint #1</a> | Smart and Raw Pointers | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/ETdSlHDQow1CiKBNpd1aq8MB5wK60ojzgA_jcGFOoYV0bw?e=KbxiHd">Assessment #1 </a>  |
-| _Week 2_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/Ecprx2yrBqBPnPvT8R8VRTwBQuNOh1tKsp-a9YLIIpiP-w?e=bXDr94">Lecture PowerPoint #2</a> | Resource Management | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EWEjBUUI0S9Mk6S5MUJCJosBy7QlKnDR8ldU3qX67zqYDQ?e=AVdJqm">Assessment #2 </a> |
-| _Week 3_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EY4nh1xZ3JZDoQWAXPI4N7sBVhlkmbzD1Gcx9f6GJw0AEA?e=BxcIRF">Lecture PowerPoint #3</a> | Rule of Zero and Rule of Three  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcibAopwx_NBlK_RHP8OMIgBKPpkYEujWcUeoiSPmVc9sQ?e=EXYVpY">Assessment #3 </a> |
-| _Week 4_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/ETbeT-uGa6FEmyLzToFoDeABwZiyvDvw-0ZPKnsX8QVRIA?e=nswBUc">Lecture PowerPoint #4</a> | C vs C++  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcRYQNzFuelLrcysDUz1ax4Bi-RGR7aTOIl9nZKRVSKxfQ?e=WFCqfS"> Assessment #4 </a>|
+**All labs are available at this link:** <a href="https://mines0-my.sharepoint.com/:o:/g/personal/dwade_mines_edu/Emn1cfMn4pxDncKTu7_P5gcBOWQdfg0d8eCMd6yEKQifig"> Lab Notebook </a> 
+
+| No. | Lecture Presentations |  Topic  | Quiz | Lab |
+| ---- | -------- | ------- | ---------- | ---- |
+| _1_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EajUf2-NXLpAsAA7AMmKT4YBfaslnOLkQNg4QXOQPdWfZQ?e=hONA0I">Lecture PowerPoint #1</a> | Smart and Raw Pointers | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/ETdSlHDQow1CiKBNpd1aq8MB5wK60ojzgA_jcGFOoYV0bw?e=KbxiHd">Assessment #1 </a>  | Lab #1 |
+| _2_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/Ecprx2yrBqBPnPvT8R8VRTwBQuNOh1tKsp-a9YLIIpiP-w?e=bXDr94">Lecture PowerPoint #2</a> | Resource Management | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EWEjBUUI0S9Mk6S5MUJCJosBy7QlKnDR8ldU3qX67zqYDQ?e=AVdJqm">Assessment #2 </a> | Lab #2 |
+| _3_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/EY4nh1xZ3JZDoQWAXPI4N7sBVhlkmbzD1Gcx9f6GJw0AEA?e=BxcIRF">Lecture PowerPoint #3</a> | Rule of Zero and Rule of Three  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcibAopwx_NBlK_RHP8OMIgBKPpkYEujWcUeoiSPmVc9sQ?e=EXYVpY">Assessment #3 </a> | Lab #3 |
+| _4_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/ETbeT-uGa6FEmyLzToFoDeABwZiyvDvw-0ZPKnsX8QVRIA?e=nswBUc">Lecture PowerPoint #4</a> | C vs C++  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcRYQNzFuelLrcysDUz1ax4Bi-RGR7aTOIl9nZKRVSKxfQ?e=WFCqfS"> Assessment #4 </a>| Lab #4 |
+| _5_ | No lecture | Summative Assignment | No Quiz | <a href="https://mines0-my.sharepoint.com/personal/dwade_mines_edu/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdwade_mines_edu%2FDocuments%2FLab%20-%20Teaching%20Module&wd=target%28Lab%20Assigments.one%7C06BACEC7-69C9-42BE-9535-0C08FAC411C0%2FSummative%20Lab%7C0333AFAD-597E-4BD3-967C-922AFF49EF9F%2F%29onenote:https://mines0-my.sharepoint.com/personal/dwade_mines_edu/Documents/Lab%20-%20Teaching%20Module/Lab%20Assigments.one#Summative%20Lab&section-id={06BACEC7-69C9-42BE-9535-0C08FAC411C0}&page-id={0333AFAD-597E-4BD3-967C-922AFF49EF9F}&end">Summative Lab Report</a> |
+
+## Course Schedule :
+TODO
 
 ### Required Text
 

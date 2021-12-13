@@ -6,7 +6,7 @@ filename: CSEduResearch.md
 
 <nav>
   <a href="https://monawade0507.github.io/Graduate-Portfolio/">Home</a> |
-  <a href="https://monawade0507.github.io/Graduate-Portfolio/Module-Syllabus">Module Syllabus</a>
+  <a href="https://monawade0507.github.io/Graduate-Portfolio/Module-Syllabus">Module Syllabus</a> | 
   <a href="https://monawade0507.github.io/Graduate-Portfolio/LiteratureReview">Literature Review</a>
 </nav>
 &emsp;

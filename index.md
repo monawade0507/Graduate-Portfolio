@@ -1,5 +1,5 @@
 <nav>
-  <a href="https://monawade0507.github.io/Non-Thesis-Graudate-Portfolio-/CSEduResearch">CSEduResearch</a> 
+  <a href="https://monawade0507.github.io/Graduate-Portfolio/CSEduResearch">CSEduResearch</a> 
 </nav>
 &emsp;
 &emsp;

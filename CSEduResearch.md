@@ -5,8 +5,8 @@ filename: CSEduResearch.md
 ---
 
 <nav>
-  <a href="https://monawade0507.github.io/Non-Thesis-Graudate-Portfolio-/">Home</a> |
-  <a href="https://monawade0507.github.io/Non-Thesis-Graudate-Portfolio-/Module-Syllabus">Module Syllabus</a>
+  <a href="https://monawade0507.github.io/Graduate-Portfolio/">Home</a> |
+  <a href="https://monawade0507.github.io/Graduate-Portfolio/Module-Syllabus">Module Syllabus</a>
 </nav>
 &emsp;
 &emsp;
@@ -38,4 +38,4 @@ Proposal of an instructional module to teach undergraduate students, that have c
 - Demonstrate the rules of managing the lifecycle of an object using special functions; Distinguish between “the rule of zero” by avoiding definitions of default operations or “the rule of three” by defining a destructor, copy constructor, and copy assignment constructor.
 - Identify functions, libraries, and methods that C and C++ have for memory lifecycle; Categorize the variations of memory management of C and C++.
 
-[Module Syllabus](https://monawade0507.github.io/Non-Thesis-Graudate-Portfolio-/Module-Syllabus)
+[Module Syllabus](https://monawade0507.github.io/Graduate-Portfolio/Module-Syllabus)

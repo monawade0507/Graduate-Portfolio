@@ -80,8 +80,6 @@ Total Points = TODO
 | _4_ | read <a href="https://mines0-my.sharepoint.com/:p:/g/personal/dwade_mines_edu/ETbeT-uGa6FEmyLzToFoDeABwZiyvDvw-0ZPKnsX8QVRIA?e=nswBUc">Lecture PowerPoint #4</a> | C vs C++  | <a href="https://mines0-my.sharepoint.com/:w:/g/personal/dwade_mines_edu/EcRYQNzFuelLrcysDUz1ax4Bi-RGR7aTOIl9nZKRVSKxfQ?e=WFCqfS"> Assessment #4 </a>| Lab #4 |
 | _5_ | No lecture | Summative Assignment | No Quiz | <a href="https://mines0-my.sharepoint.com/personal/dwade_mines_edu/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdwade_mines_edu%2FDocuments%2FLab%20-%20Teaching%20Module&wd=target%28Lab%20Assigments.one%7C06BACEC7-69C9-42BE-9535-0C08FAC411C0%2FSummative%20Lab%7C0333AFAD-597E-4BD3-967C-922AFF49EF9F%2F%29onenote:https://mines0-my.sharepoint.com/personal/dwade_mines_edu/Documents/Lab%20-%20Teaching%20Module/Lab%20Assigments.one#Summative%20Lab&section-id={06BACEC7-69C9-42BE-9535-0C08FAC411C0}&page-id={0333AFAD-597E-4BD3-967C-922AFF49EF9F}&end">Summative Lab Report</a> |
 
-## Course Schedule :
-TODO
 
 ### Required Text
 

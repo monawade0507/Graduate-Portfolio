@@ -61,11 +61,14 @@ All grades are based on the cumulative grade point average of four assessments, 
 | Assessment #2 - Resource Management    | 9 points | 
 | Assessment #3 - Rule of Zero and Rule of Three | 12 points |
 | Assessment #4 - C vs. C++ | 10 points |
-| Lab #1 - #4 | TODO |
+| Lab #1 | 22 points |
+| Lab #2 | 20 points |
+| Lab #3 | 35 points |
+| Lab #4 | 52 points |
 | Summative Lab Report| 50 points |
 
 
-Total Points = TODO
+Total Points for this Module = 218 points
 
 
 ## Course Assignments:

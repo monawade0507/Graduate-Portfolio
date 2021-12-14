@@ -24,7 +24,18 @@ filename: Module-Syllabus.md
 Undergraduate students that have completed their freshman course load and whom intended to major or minor in computer science. Class size is expected to be 25 - 35 students.  
 
 ## Module Description:
-TODO
+During a typical 15-week semester, this course would occur 2/3 way through the semester for 5 weeks. The module schedule would be like the following: 
+
+| Week   | Lecture topic          | Assessment     | Lab    |
+| ------ | ---------------------- | -------------- | -----  |
+| Week 5 | Smart and Raw Pointers | No Quiz  | Lab #1 |
+| Week 6 | Resource Management    | Assessment #1  | Lab #2 |
+| Week 7 | Rule of Zero and Rule of Three | Assessment #2 | Lab #3 |
+| Week 8 | C vs. C++  |  Assessment #3 | Lab #4 |
+| Week 9 | No Topic - Time to work on the Summative Lab Report | Assessment #4 | Summative Lab Report |
+
+Lab assignments will be given at the beginning of the week (i.e. Monday) and expected to be turned in at the end of the week (i.e. Friday at 11:59 pm). The Assessments will be
+a 5 minute quiz given at the beginning of the next lecture. This is to given students time to review that previous week's material and prepare. 
 
 ## Prerequisites:
 Students are expected to have a taken a foundational course in computer science that would have given them exposure to a high-level object-oriented coding language (examples are Java, Python, etc.). In addition, a basic understanding of C++ 11 is expected which includes basic data types, function and class definition, high level program design, etc.  
@@ -51,7 +62,7 @@ All grades are based on the cumulative grade point average of four assessments, 
 | Assessment #3 - Rule of Zero and Rule of Three | 12 points |
 | Assessment #4 - C vs. C++ | 10 points |
 | Lab #1 - #4 | TODO |
-| Summative Lab Report| TODO |
+| Summative Lab Report| 50 points |
 
 
 Total Points = TODO
